@@ -7,3 +7,6 @@ Features include:
 # Requirements
 - Python 3.x
 - Pygame
+# Instructions
+- Use the keys 1-9 to mark the selected square with a number
+- Clear the selected square by pressing 0
