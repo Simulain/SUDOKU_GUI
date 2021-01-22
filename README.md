@@ -5,5 +5,5 @@ Features include:
 - Show incorrect moves 
 - Solve the puzzle using the backtracking algorithm (normal or fast)
 # Requirements
-- Python 3.8
+- Python 3.x
 - Pygame
